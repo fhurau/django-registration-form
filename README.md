@@ -15,14 +15,6 @@ This project is a simple **Django-based registration form** that validates user 
 - **Bootstrap Integration**: The form uses Bootstrap for a modern, responsive design.
 - **Floating Labels**: Clean design using floating labels from Bootstrap to display input field placeholders.
 
-## Screenshots
-
-### Registration Form:
-![Registration Form](https://your-link-to-screenshot)
-
-### Success Message:
-![Success Message](https://your-link-to-screenshot)
-
 ## Getting Started
 
 ### Prerequisites
